@@ -1,0 +1,27 @@
+header {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 18px;
+    color: rgb(120,120,120);
+}
+.a {
+    text-decoration: none;
+    color: black;
+}
+#logo {
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+.carousel-item {
+    margin-bottom: 20px;
+}
+#carousel slide {
+    margin-bottom: 40px;
+}
